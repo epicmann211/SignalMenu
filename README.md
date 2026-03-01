@@ -6,7 +6,7 @@ SignalMenu is a Gorilla Tag mod menu that is a very new mod menu developed by ne
 	<a href="https://discord.gg/uytAMzjp8u">
     <img src="https://img.shields.io/badge/Discord-Join-blueviolet?style=for-the-badge&logo=discord">
 	<a href="https://github.com/epicmann211/SignalMenu/releases"><img src="https://img.shields.io/github/v/release/epicmann211/SignalMenu?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/epicmann211/SignalMenu/releases/"><img src="https://img.shields.io/github/downloads/epicmann211/SignalMenu/SignalMenu.dll?style=for-the-badge"></a>
+	<a href="https://github.com/epicmann211/SignalMenu.dll/releases/"><img src="https://img.shields.io/github/downloads/epicmann211/SignalMenu/SignalMenu.dll?style=for-the-badge"></a>
 	<p align="center">
   <img src="signal.png">
   </a>
